@@ -1,4 +1,4 @@
-# React component for `canvas-confetti` library
+# React component for **canvas-confetti** library
 
 Reimplementation of [`canvas-confetti`](https://github.com/catdad/canvas-confetti) in react functional component in Next App router.
 
@@ -17,5 +17,5 @@ dependency.
 
 - Copy & paste the codes you need from the `/components` directory.
 - Customize as per your requirement.
-- Then copy & paste from `/app/(confetti)` to you Root Layout or anywhere you feel right.
+- Then copy & paste from `/app/(confetti)` to your Root Layout or anywhere you feel right.
 - Code is 100% yours.
