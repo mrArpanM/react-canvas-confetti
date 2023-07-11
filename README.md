@@ -19,3 +19,15 @@ dependency.
 - Customize as per your requirement.
 - Then copy & paste from `/app/(confetti)` to your Root Layout or anywhere you feel right.
 - Code is 100% yours.
+
+## Contribution &|| Running locally
+
+Install dependencies
+```bash
+pnpm install
+```
+
+Run Local development server
+```bash
+pnpm dev
+```
